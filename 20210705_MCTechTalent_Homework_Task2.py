@@ -1,5 +1,4 @@
 #Task 2
-import random
 joke_1 = "Q: Why did the crab never share? A: Because he's shellfish"
 joke_2 = "Q: What was the dogs favorite type of homework to do? A: A lab report"
 joke_3 = "Q: What do you get if you cross an angry sheep and a moody cow? A: An animal that's in a baaaaaaaaad mooooooooooood."
